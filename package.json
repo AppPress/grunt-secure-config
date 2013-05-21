@@ -1,0 +1,33 @@
+{
+    "name" : "grunt-secure-config",
+    "description" : "Grunt tasks for management of secure-config encrypted JSON files.",
+    "version" : "0.0.1",
+	"main": "Gruntfile.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/AppPress/grunt-secure-config.git"
+	},
+	"keywords": [
+		"gruntplugin",
+		"secure-config",
+		"config",
+		"settings",
+		"secure"
+	],
+	"author": "App Press",
+	"license": "MIT",
+	"readmeFilename": "README.md",
+	"dependencies": {
+		"secure-config": "*"
+	},
+	"devDependencies": {
+		"grunt": "~0.4.0",
+		"grunt-contrib-jshint": "~0.4.3"
+	},
+	"peerDependencies": {
+		"grunt": "~0.4.0"
+	},
+	"engines": {
+		"node": ">=0.8"
+	}
+}
