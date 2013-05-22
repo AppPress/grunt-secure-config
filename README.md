@@ -1,6 +1,6 @@
 # Grunt Secure Config
 
-A simple set of grunt tasks to manage secure-config encrypted JSON files.
+A simple set of grunt tasks to manage [secure-config][1] encrypted JSON files.
 
 ## Example Usage
 
@@ -36,3 +36,5 @@ Decrypt a .store file to a .json file by adding `--toFile`
 ## License
 
 View the [LICENSE](https://github.com/AppPress/node-connect-datadog/blob/master/LICENSE) file.
+
+[1]: https://github.com/AppPress/node-secure-config
