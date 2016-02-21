@@ -1,7 +1,7 @@
 {
-    "name" : "grunt-secure-config",
-    "description" : "Grunt tasks for management of secure-config encrypted JSON files.",
-    "version" : "0.0.1",
+	"name": "grunt-secure-config",
+	"description": "Grunt tasks for management of secure-config encrypted JSON files.",
+	"version": "0.0.1",
 	"main": "Gruntfile.js",
 	"repository": {
 		"type": "git",
@@ -25,7 +25,7 @@
 		"grunt-contrib-jshint": "~0.4.3"
 	},
 	"peerDependencies": {
-		"grunt": "~0.4.0"
+		"grunt": ">=0.4.0"
 	},
 	"engines": {
 		"node": ">=0.8"
